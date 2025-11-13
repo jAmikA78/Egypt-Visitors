@@ -63,7 +63,7 @@ assets/
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/jAmikA78/Egyptian-tour-guide.git
+   git clone https://github.com/jAmikA78/Egypt-Visitors.git
    cd egypt_visitors
    ```
 
